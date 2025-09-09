@@ -25,7 +25,8 @@ Search for any city 🌍, and instantly view the **current weather**, **temperat
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Fancy+Weather+App+Screenshot+1" alt="Weather App Screenshot" />
+ <img width="1855" height="1049" alt="image" src="https://github.com/user-attachments/assets/7ebf4360-e51b-4555-80fe-55900c7d4470" />
+
 </p>
 
 ---
